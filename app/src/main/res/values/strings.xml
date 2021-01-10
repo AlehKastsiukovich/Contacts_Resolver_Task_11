@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactsResolver</string>
+    <string name="default_text">Default text</string>
+    <string name="image_of_search" />
+    <string name="search_contact" />
+    <string name="no_contacts_please_add" />
+    <string name="add_contact_button" />
+</resources>
